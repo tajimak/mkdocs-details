@@ -4,7 +4,7 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 ## Commands
 
-<details><summary>折りたたみ</summary>
+<details open><summary>折りたたみ</summary>
 
 * `mkdocs new [dir-name]` - Create a new project.
 * `mkdocs serve` - Start the live-reloading docs server.
@@ -15,7 +15,7 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 ## Project layout
 
-<details><summary>折りたたみ</summary>
+<details open><summary>折りたたみ</summary>
 
 ```
 mkdocs.yml    # The configuration file.
