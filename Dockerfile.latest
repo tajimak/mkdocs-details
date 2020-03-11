@@ -1,0 +1,9 @@
+FROM python:3.7-alpine
+
+ENV BASE_IMAGE=python:3.7-alpine
+
+RUN pip install Markdown && \
+    pip install pymdown-extensions && \
+    pip install mkdocs && \
+    pip install mkdocs-material && \
+    pip list
