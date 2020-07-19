@@ -1,6 +1,6 @@
-FROM python:3.7-alpine
+FROM python:3.8-alpine
 
-ENV BASE_IMAGE=python:3.7-alpine
+ENV BASE_IMAGE=python:3.8-alpine
 
 RUN pip install Markdown==2.6.11 && \
     pip install pymdown-extensions==5.0 && \
