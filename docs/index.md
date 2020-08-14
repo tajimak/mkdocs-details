@@ -4,14 +4,18 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 ## Commands
 
-<details open><summary>Folding details</summary>
+???+ note _h3 "Folding details"
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+    How to create `details`:  
+    <https://facelessuser.github.io/pymdown-extensions/extensions/details/>
 
-</details>
+    !!! note
+        memo is here.
+
+    * `mkdocs new [dir-name]` - Create a new project.
+    * `mkdocs serve` - Start the live-reloading docs server.
+    * `mkdocs build` - Build the documentation site.
+    * `mkdocs help` - Print this help message.
 
 ## Project layout
 
