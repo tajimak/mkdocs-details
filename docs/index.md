@@ -1,10 +1,10 @@
-# Welcome to MkDocs
+# Collapsible elements;\<details\> in MkDocs
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
-## Commands
+## PyMdown Syntax
 
-???+ note _h3 "Folding details"
+???+ note _h3 "Collapsible elements"
 
     How to create `details`:  
     <https://facelessuser.github.io/pymdown-extensions/extensions/details/>
@@ -17,9 +17,9 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
     * `mkdocs build` - Build the documentation site.
     * `mkdocs help` - Print this help message.
 
-## Project layout
+## HTML Raw Syntax
 
-<details open><summary>Folding details</summary>
+<details open><summary>Collapsible elements</summary>
 
 ```
 mkdocs.yml    # The configuration file.
