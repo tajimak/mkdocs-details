@@ -6,8 +6,7 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 ???+ note _h3 "Collapsible elements"
 
-    How to create `details`:  
-    <https://facelessuser.github.io/pymdown-extensions/extensions/details/>
+    This contents is indented.
 
     !!! note
         memo is here.
@@ -17,15 +16,21 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
     * `mkdocs build` - Build the documentation site.
     * `mkdocs help` - Print this help message.
 
+    How to create `details`:  
+    <https://facelessuser.github.io/pymdown-extensions/extensions/details/>
+
 ## HTML Raw Syntax
 
 <details open><summary>Collapsible elements</summary>
 
-```
-mkdocs.yml    # The configuration file.
-docs/
-    index.md  # The documentation homepage.
-    ...       # Other markdown pages, images and other files.
-```
+This contents is not indented.
+
+!!! note
+    memo is here.
+
+* `mkdocs new [dir-name]` - Create a new project.
+* `mkdocs serve` - Start the live-reloading docs server.
+* `mkdocs build` - Build the documentation site.
+* `mkdocs help` - Print this help message.
 
 </details>
