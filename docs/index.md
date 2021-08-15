@@ -1,4 +1,4 @@
-# Collapsible elements;\<details\> in MkDocs
+# Collapsible elements\;\<details\> in MkDocs
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
