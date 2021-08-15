@@ -1,10 +1,10 @@
-# Collapsible elements\;\<details\> in MkDocs
+# Collapsible elements in MkDocs
 
 For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 ## PyMdown Syntax
 
-???+ note _h3 "Collapsible elements"
+??? note _h3 "Collapsible elements below."
 
     This contents is indented.
 
@@ -21,7 +21,7 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
 
 ## HTML Raw Syntax
 
-<details open><summary>Collapsible elements</summary>
+<details><summary>Collapsible elements below.</summary>
 
 This contents is not indented.
 
